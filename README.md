@@ -14,9 +14,8 @@ Test different languages and environments, how they handle creating ten million 
 
 Python is shit, Go is the shit. I totally recommend to take a look at https://crystal-lang.org
 
-
-[seconds]: https://github.com/mxrguspxrt/TenMillionObjects/raw/master/charts/seconds.png "Seconds"
-[megabytes]: https://github.com/mxrguspxrt/TenMillionObjects/raw/master/charts/mb.png "Megabytes"
+![seconds](https://github.com/mxrguspxrt/TenMillionObjects/raw/master/charts/seconds.png "Seconds")
+![megabytes](https://github.com/mxrguspxrt/TenMillionObjects/raw/master/charts/mb.png "Megabytes")
 
 
 ```
