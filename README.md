@@ -10,7 +10,6 @@ Test different languages and environments, how they handle creating ten million 
 ```
 
 
-
 # Results
 
 Python is shit, Go is the shit. I totally recommend to take a look at https://crystal-lang.org
@@ -23,3 +22,8 @@ Python is shit, Go is the shit. I totally recommend to take a look at https://cr
   Python3 used 1688MB and ran 14 seconds.
   Python2 used 3802MB and ran 22 seconds.
 ```
+
+
+# Contributing
+
+Make a PR and I merge.
