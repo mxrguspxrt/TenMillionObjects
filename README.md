@@ -1,6 +1,6 @@
 # Why?
 
-Test different languages and environments, how they handle creating ten million objects with one instance variable.
+To test different languages and environments, how they handle creating ten million objects with one instance variable.
 
 OOP is beautiful and a software engineer should be able to create objects without being concerned about memory or CPU time issues.
 
