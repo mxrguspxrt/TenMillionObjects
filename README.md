@@ -14,8 +14,6 @@ OOP is beautiful and a software engineer should be able to create objects withou
 
 # Results
 
-Python is shit, Go is the shit. I totally recommend to take a look at https://crystal-lang.org
-
 ![seconds](https://github.com/mxrguspxrt/TenMillionObjects/raw/master/charts/seconds.png "Seconds")
 ![megabytes](https://github.com/mxrguspxrt/TenMillionObjects/raw/master/charts/mb.png "Megabytes")
 
@@ -27,6 +25,8 @@ Python is shit, Go is the shit. I totally recommend to take a look at https://cr
   Python3 used 1688MB and ran 14 seconds.
   Python2 used 3802MB and ran 22 seconds.
 ```
+
+I totally recommend to take a look at https://crystal-lang.org
 
 
 # Contributing
