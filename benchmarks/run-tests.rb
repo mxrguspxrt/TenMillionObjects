@@ -1,5 +1,5 @@
-puts `go run test.go`
-puts `crystal test.cr`
-puts `ruby test.rb`
-puts `python3.5 test.py3`
-puts `python test.py2`
+puts `go run tests/go.go`
+puts `crystal tests/crystal.cr`
+puts `ruby tests/ruby.rb`
+puts `python3.5 tests/python3.py`
+puts `python tests/python2.py`
