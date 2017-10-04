@@ -27,7 +27,7 @@ million = 1000000
 objects = []
 
 for i in range(1, 10 * million):
-    obj = SomeObject('random')
+    obj = SomeObject('tere')
     objects.append(obj)
 
 
