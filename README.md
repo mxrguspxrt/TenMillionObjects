@@ -26,7 +26,7 @@ OOP is beautiful and a software engineer should be able to create objects withou
   Python2 used 3802MB and ran 22 seconds.
 ```
 
-I totally recommend to take a look at https://crystal-lang.org
+I do recommend to take a look at https://crystal-lang.org
 
 
 # Contributing
