@@ -8,7 +8,7 @@ OOP is beautiful and a software engineer should be able to create objects withou
 # Confirming the results
 
 ```bash
-  ruby benchmarks/run-tests.py
+  cd benchmarks && ruby run-tests.py
 ```
 
 
